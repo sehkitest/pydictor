@@ -5,7 +5,7 @@
 
 **README.md [中文版](README_CN.md)**
 
-##### pydictor —— A powerful and useful hacker dictionary builder for a brute-force attack
+##### pydictor —— A Powerful Custom Dictionary builder for a Brute-force attack
                           _ _      _
           _ __  _   _  __| (_) ___| |_ ___  _ __
          | '_ \| | | |/ _` | |/ __| __/ _ \| '__|
